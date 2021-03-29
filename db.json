@@ -1,0 +1,221 @@
+{
+  "products": [
+    {
+      "id": "3",
+      "categoryId": "1",
+      "name": "ÁO THUN D1ATN120001",
+      "image": "https://storage.googleapis.com/cdn.nhanh.vn/store/7136/ps/20210104/4332021103352_IMG_1812_1_thumb.jpg",
+      "price": "530,000 ₫",
+      "status": false,
+      "countInstock": 66,
+      "Material": "Cotton"
+    },
+    {
+      "id": "4",
+      "categoryId": "1",
+      "name": "ÁO SOMI M2SMN120003",
+      "image": "https://storage.googleapis.com/cdn.nhanh.vn/store/7136/ps/20210104/4432021114341_IMG_1987.jpg",
+      "price": "285,000 ₫",
+      "status": true,
+      "countInstock": 33,
+      "Material": "Cotton"
+    },
+    {
+      "id": "5",
+      "categoryId": "1",
+      "name": "ÁO THUN U1ATN120006 ",
+      "image": "https://storage.googleapis.com/cdn.nhanh.vn/store/7136/ps/20210104/4452021104559_IMG_1945.JPG",
+      "price": "225,000₫",
+      "status": false,
+      "countInstock": 70,
+      "Material": "Cotton"
+    },
+    {
+      "id": "6",
+      "categoryId": "1",
+      "name": "ÁO KHOÁC U1AKD4011002 ",
+      "image": "https://storage.googleapis.com/cdn.nhanh.vn/store/7136/ps/20210204/412202151242_IMG_2467.jpg",
+      "price": "350,000₫",
+      "status": false,
+      "countInstock": 30,
+      "Material": "Cotton"
+    },
+    {
+      "id": "7",
+      "categoryId": "1",
+      "name": "ÁO SOMI M1SMN120003 ",
+      "image": "https://storage.googleapis.com/cdn.nhanh.vn/store/7136/ps/20210104/415202141503_IMG_2733.jpg",
+      "price": "265,000₫",
+      "status": true,
+      "countInstock": 20,
+      "Material": "Cotton"
+    },
+    {
+      "id": "8",
+      "categoryId": "1",
+      "name": "ÁO THUN M2ATN120016 ",
+      "image": "https://storage.googleapis.com/cdn.nhanh.vn/store/7136/ps/20210108/801202150118_IMG_1851.JPG",
+      "price": "245,000₫",
+      "status": false,
+      "countInstock": 12,
+      "Material": "Cotton"
+    },
+    {
+      "id": "7",
+      "categoryId": "2",
+      "name": "QUẦN JEAN M1QJN120016",
+      "image": "https://storage.googleapis.com/cdn.nhanh.vn/store/7136/ps/20210108/838202153832_IMG_2769.jpg",
+      "price": "395,000₫",
+      "status": true,
+      "countInstock": 10,
+      "Material": "Jean"
+    },
+    {
+      "id": "10",
+      "categoryId": "2",
+      "name": "QUẦN JOGGER M1QJG120001",
+      "image": "https://storage.googleapis.com/cdn.nhanh.vn/store/7136/ps/20210108/822202152207_IMG_2772.jpg",
+      "price": "415,000₫",
+      "status": true,
+      "countInstock": 183,
+      "Material": "Jean"
+    },
+    {
+      "id": "29",
+      "categoryId": "2",
+      "name": "QUẦN JOGGER M1QJG011001",
+      "image": "https://storage.googleapis.com/cdn.nhanh.vn/store/7136/ps/20210120/20372021113743_IMG_0565.jpg",
+      "price": "415,000₫",
+      "status": false,
+      "countInstock": 0,
+      "Material": "Jean"
+    },
+    {
+      "id": "19",
+      "categoryId": "2",
+      "name": "QUẦN JOGGER M2QJK2011005",
+      "image": "https://storage.googleapis.com/cdn.nhanh.vn/store/7136/ps/20210204/433202153355_IMG_0203.jpg",
+      "price": "365,000₫",
+      "status": true,
+      "countInstock": 20,
+      "Material": "Jean"
+    },
+    {
+      "id": "39",
+      "categoryId": "2",
+      "name": "QUẦN THUN M1QTH120002",
+      "image": "https://storage.googleapis.com/cdn.nhanh.vn/store/7136/ps/20210108/820202152020_IMG_2748.jpg",
+      "price": "195,000₫",
+      "status": true,
+      "countInstock": 5,
+      "Material": "Cotton"
+    },
+    {
+      "id": "51",
+      "categoryId": "2",
+      "name": "QUẦN JEAN M1QJN2021005",
+      "image": "https://storage.googleapis.com/cdn.nhanh.vn/store/7136/ps/20210108/820202152020_IMG_2748.jpg",
+      "price": "415,000₫",
+      "status": true,
+      "countInstock": 15,
+      "Material": "Jean"
+    },
+    {
+      "id": "23",
+      "categoryId": "2",
+      "name": "QUẦN SHORT M2SJN1011004",
+      "image": "https://storage.googleapis.com/cdn.nhanh.vn/store/7136/ps/20210205/503202160348_IMG_1734.jpg",
+      "price": "345,000₫",
+      "status": true,
+      "countInstock": 28,
+      "Material": "Jean"
+    },
+    {
+      "id": "32",
+      "categoryId": "2",
+      "name": "QUẦN JEAN M1QJN2011001",
+      "image": "https://storage.googleapis.com/cdn.nhanh.vn/store/7136/ps/20210202/206202140640_IMG_1696.jpg",
+      "price": "395,000₫",
+      "status": true,
+      "countInstock": 78,
+      "Material": "Jean"
+    },
+    {
+      "id": "57",
+      "categoryId": "3",
+      "name": "ĐỒNG HỒ DHF109026BR",
+      "image": "https://storage.googleapis.com/cdn.nhanh.vn/store/7136/ps/20191021/15 dong ho nau totoshop (1).jpg",
+      "price": "235,000₫",
+      "status": true,
+      "countInstock": 12,
+      "Material": "Casio"
+    },
+    {
+      "id": "57",
+      "categoryId": "3",
+      "name": "ĐỒNG HỒ DHF109020BR",
+      "image": "https://storage.googleapis.com/cdn.nhanh.vn/store/7136/ps/20191021/11 dong ho nau totoshop (1).jpg",
+      "price": "235,000₫",
+      "status": true,
+      "countInstock": 32,
+      "Material": "Casio"
+    },
+    {
+      "id": "36",
+      "categoryId": "3",
+      "name": "ĐỒNG HỒ DHF109013",
+      "image": "https://storage.googleapis.com/cdn.nhanh.vn/store/7136/ps/20191021/8 dong ho den totoshop (1).jpg",
+      "price": "255,000₫",
+      "status": true,
+      "countInstock": 29,
+      "Material": "Casio"
+    },
+    {
+      "id": "16",
+      "categoryId": "3",
+      "name": "ĐỒNG HỒ DHF079023BR",
+      "image": "https://storage.googleapis.com/cdn.nhanh.vn/store/7136/ps/20190726/đồng hồ - totoshop 16 (2).jpg",
+      "price": "225,000₫",
+      "status": true,
+      "countInstock": 102,
+      "Material": "Casio"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Áo"
+    },
+    {
+      "id": "2",
+      "name": "Quần"
+    },
+    {
+      "id": "3",
+      "name": "Đồng hồ"
+    },
+    {
+      "id": "4",
+      "name": "Nón"
+    },
+    {
+      "name": "Balo",
+      "id": "5"
+    },
+    {
+      "id": "9nQWov8",
+      "name": "Tai nghe"
+    },
+    {
+      "id": "9eHoCgs",
+      "name": "Dolce"
+    }
+  ],
+  "carts": [
+    {
+      "id": "1",
+      "amount": 10,
+      "name": "QUẦN JEAN M1QJN1021003"
+    }
+  ]
+}
